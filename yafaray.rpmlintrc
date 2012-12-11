@@ -1,0 +1,2 @@
+addFilter("E: non-versioned-file-in-library-package")
+addFilter("E: wrong-script-interpreter")
