@@ -9,7 +9,7 @@
 Summary:	A free open-source raytracing render engine
 Name:		yafaray
 Version:	0.1.1
-Release:	1
+Release:	2
 License:	LGPLv2.1
 Group:		Graphics
 URL:		http://www.yafray.org/
