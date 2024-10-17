@@ -12,7 +12,7 @@ Version:	0.1.1
 Release:	2
 License:	LGPLv2.1
 Group:		Graphics
-URL:		http://www.yafray.org/
+URL:		https://www.yafray.org/
 Source0:	http://static.yafaray.org/sources/%{oname}.%{version}.zip
 Source1:	http://static.yafaray.org/sources/%{oname}-blender.%{version}.zip
 Source2:	yafaray.rpmlintrc
